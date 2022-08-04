@@ -1,0 +1,5 @@
+The Pirates,1,Baltazar Hernandez,15,book,Yes,1
+Wild Life,2,Bill Nie,20,magazine,No,1
+The River,3,Ocean,10,book,No,1,
+Stranger Things,4,Tuffer Brothers,50,video,Yes,2
+Java,5,Random Author,30,reference,No,1
